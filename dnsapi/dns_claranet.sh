@@ -1,5 +1,6 @@
 #!/usr/bin/env sh
 # shellcheck disable=SC2034
+
 dns_df_info='Claranet GmbH
 Domains: dns.claranet.de
 Site: dns.claranet.de
